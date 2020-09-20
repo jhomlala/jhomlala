@@ -1,16 +1,14 @@
 ### Hi there 👋
+- ⚡ I'm Android/Flutter developer in Better Software Group
+- 🔭 I’m currently working on Catcher, Alice and BetterPlayer
+- 📫 How to reach me: jhomlala@gmail.com
 
-<!--
-**jhomlala/jhomlala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+<span style="font-family:Trebuchet MS;"></span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Readme Stats][ReadmeStats-Image]
+
+
+[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=jhomlala&show_icons=true&bg_color=ffffff
+

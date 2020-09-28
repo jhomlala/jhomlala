@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ I'm Android/Flutter developer for Better Software Group
+- ⚡ I'm Android/Flutter developer @ Better Software Group
 - 🔭 I’m currently working on Catcher, Alice and BetterPlayer
 - 📫 How to reach me: jhomlala@gmail.com
 

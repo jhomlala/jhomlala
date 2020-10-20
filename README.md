@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **BetterPlayer, Catcher, Alice**
 
+- 👯 I'm working @ [Better Software Group](https://bsgroup.eu)
+
 - 👨‍💻 All of my projects are available at [https://github.com/jhomlala](https://github.com/jhomlala)
 
 - 💬 Ask me about **Flutter, Dart, Android**

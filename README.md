@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">A mobile developer from Poland which crafts future with open source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhomlala&label=Profile%20views&color=0e75b6&style=flat" alt="jhomlala" /> </p>
 

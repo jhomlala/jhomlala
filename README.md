@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Flutter, Dart, Android**
 
-- 📫 How to reach me **jhomlala@gmail.com**
-
 - ⚡ Fun fact **I like to refactor old code.**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 
-- 🔭 I’m currently working on **BetterPlayer, Catcher, Alice**
+- 🔭 I’m currently working on open source projects: **BetterPlayer, Catcher, Alice**
 - 🏢 I'm working @ [Better Software Group](https://bsgroup.eu)
 - 👨‍💻 All of my projects are available at [https://github.com/jhomlala](https://github.com/jhomlala)
 - 💬 Ask me about **Flutter, Android, Dart, Kotlin**

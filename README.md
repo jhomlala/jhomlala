@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 
 - 🔭 I’m currently working on open source projects: **BetterPlayer, Catcher, Alice**
-- 🏢 I'm working @ [Scalo]([https://bsgroup.eu](https://www.scalosoft.com/))
+- 🏢 I'm working @ [Scalo]([https://www.scalosoft.com](https://www.scalosoft.com))
 - 👨‍💻 All of my projects are available at [https://github.com/jhomlala](https://github.com/jhomlala)
 - 💬 Ask me about **Flutter, Android, Dart, Kotlin**
 - ⚡ Fun fact **I like to refactor old code.**
